@@ -12,4 +12,4 @@ pretty much similar on newer devices (i.e. iPhone 5) I found that this
 method was actually faster for older devices such as an iPod Touch 3.
 
 * You need to provide your own Instagram client id in order to use the
-app *
+app
